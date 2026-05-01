@@ -54,7 +54,7 @@ export default function Page3() {
           className="bubble-btn"
           onClick={() => navigate("/page4")}
         >
-          🎁 Open Your Gift
+          By clicking this , you would get to know my fillings 🤭🤭
         </button>
       </motion.div>
     </div>
